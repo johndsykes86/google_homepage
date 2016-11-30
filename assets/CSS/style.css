@@ -1,11 +1,11 @@
-/*Project styles*/
+/*Project stylesaa*/
 
 .clearfix {
   clear:both;
 }
 
 .container {
-  text-align: center;
+
 }
 
 /*nav styles*/
@@ -25,17 +25,34 @@ nav li a {
 
 /*main styles*/
 
-
-
-
 .main {
   margin: 0 auto;
   width: 700px;
+  text-align: center;
+}
+
+
+/*Form styles*/
+
+.search {
+  margin: 40px;
 }
 
 .search input {
-  width: 500px;
+  width: 525px;
   height: 25px;
+  font-size: 18px;
+}
+
+.buttons {
+  margin-top: 10px;
+  padding: 5px;
+}
+
+.buttons button {
+  height: 30px;
+  padding: 5px;
+  margin: 2.5px;
 }
 
 .links {
@@ -43,6 +60,9 @@ nav li a {
 }
 
 .link {
+  text-align: center;
   display: block;
-  font-size: 11aaspx;
+  font-size: 11px;
+  margin-left: 2.5px;
+  text-decoration: none;
 }
