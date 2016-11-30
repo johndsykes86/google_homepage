@@ -1,5 +1,11 @@
+/*Project styles*/
+
 .clearfix {
   clear:both;
+}
+
+.container {
+  text-align: center;
 }
 
 /*nav styles*/
@@ -19,9 +25,7 @@ nav li a {
 
 /*main styles*/
 
-.container {
-  text-align: center;
-}
+
 
 
 .main {
@@ -40,5 +44,5 @@ nav li a {
 
 .link {
   display: block;
-  font-size: 11px;
+  font-size: 11aaspx;
 }
