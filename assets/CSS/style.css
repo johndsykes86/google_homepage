@@ -1,0 +1,19 @@
+.clearfix {
+  clear:both;
+}
+
+/*nav styles*/
+
+nav li {
+  float: right;
+  padding: 5px;
+  margin: 5px;
+}
+
+
+/*main styles*/
+
+.main {
+  margin: 20px;
+  text-align: center;
+}
