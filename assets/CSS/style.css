@@ -35,24 +35,28 @@ nav li a {
 /*Form styles*/
 
 .search {
-  margin: 40px;
+  margin-top: 40px;
 }
 
 .search input {
-  width: 525px;
+  width: 560px;
   height: 25px;
   font-size: 18px;
 }
 
 .buttons {
-  margin-top: 10px;
+  margin-top: 2.5px;
   padding: 5px;
 }
 
 .buttons button {
   height: 30px;
-  padding: 5px;
+  padding: 7.5px;
   margin: 2.5px;
+  background-color: #f1f1f1;
+  color: #757575;
+  border: none;
+  vertical-align: middle;
 }
 
 .links {
@@ -63,6 +67,6 @@ nav li a {
   text-align: center;
   display: block;
   font-size: 11px;
-  margin-left: 2.5px;
+  margin-left: -45px;
   text-decoration: none;
 }
